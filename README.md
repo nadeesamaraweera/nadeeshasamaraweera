@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadeesha Samaraweera</h1>
 <h3 align="center">A Computer Science student in Sri lanka</h3>
 
-<img align="right" alt"coding" width="400"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40jyotibalodhi%2Fprogrammer-or-not-345df8ab4dbc&psig=AOvVaw1lNuu4V_gY0hkFffaI0F5i&ust=1709041398307000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMi9xr2RyYQDFQAAAAAdAAAAABAE">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeesamaraweera&label=Profile%20views&color=0e75b6&style=flat" alt="nadeesamaraweera" /> </p>
 
