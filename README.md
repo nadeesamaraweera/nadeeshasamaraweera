@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nadeesha Samaraweera</h1>
 <h3 align="center">A Computer Science student in Sri lanka</h3>
 
-<img src="http//:programmer-or-not-345df8ab4dbc">
+<img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeesamaraweera&label=Profile%20views&color=0e75b6&style=flat" alt="nadeesamaraweera" /> </p>
 
